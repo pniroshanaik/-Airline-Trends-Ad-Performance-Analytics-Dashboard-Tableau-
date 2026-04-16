@@ -1,4 +1,4 @@
-# ✈️ Airline Trends & Ad Performance Analytics Dashboard (Tableau)
+# ✈️ Airline-Trends-Ad-Performance-Tableau-Dashboard
 
 ## 🔍 Overview
 
