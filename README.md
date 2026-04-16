@@ -86,8 +86,11 @@ This dashboard helps in making data-driven decisions for optimizing marketing an
 ## 📂 Project Files
 
 * Tableau Workbook (.twb)
-* Dashboard Screenshots (images/)
 
+---
+  ## 🖼 Dashboard Preview
+
+![Dashboard Preview](tableau-dashboard-preview.png)
 ---
 
 ## 📌 Future Enhancements
